@@ -32,7 +32,7 @@ keyboard_arrow_down
       {/* Chatbot Footer */}
       <div className="chat-footer">
         <form action="#" className="chat-form">
-          <input type="text" placeholder="Message..." className="message-input" />
+          <input type="text" placeholder="Message..." className="message-input" required/>
           <button className="material-symbols-rounded">arrow_upward
 </button>
         </form>
