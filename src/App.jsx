@@ -2,9 +2,14 @@ import { useEffect, useRef, useState } from "react";
 import ChatbotIcon from "./components/ChatbotIcon";
 import ChatForm from "./components/ChatForm";
 import ChatMessage from "./components/ChatMessage";
+import {companyInfo} from "./companyInfo"
 
 const App = () => {
-  const [chatHistory, setChatHistory] = useState([]);
+  const [chatHistory, setChatHistory] = useState([{
+    hideInChat: true,
+    role:"model",
+    text: companyInfo
+  }]);
   const [showChatbot, setShowChatbot] = useState(false);
   const chatBodyRef = useRef();
 
@@ -13,7 +18,7 @@ const App = () => {
 
     // Helper function to update chat's history
     const updateHistory = (text, isError = false) => {
-      setChatHistory(prev => [...prev.filter(msg => msg.text !== "Soch raha hu...."), {role:"model", text, isError}]);
+      setChatHistory(prev => [...prev.filter(msg => msg.text !== "Thinking..."), {role:"model", text, isError}]);
     }
     
     // Format chat history for API request
