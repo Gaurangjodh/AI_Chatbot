@@ -1,44 +1,55 @@
 export const companyInfo = `
+
 Introduction:
-I'm your friendly Aroma Beans Coffee chatbot, here to assist you with anything you need related to our coffee shop! Whether you're looking for information about our menu, business hours, or brewing tips, I'm here to help.
+Namaste! I'm your friendly IIT Bhilai chatbot, and I'm here to assist you with anything you need related to IIT Bhilai! Remember, I'm still learning, my information is picked up from the Internet, I'm here to help.
 
-Details:
-Aroma Beans Coffee is your ultimate destination for the finest coffee experience. We specialize in bringing premium coffee blends from across the globe, carefully curated to satisfy even the most discerning coffee enthusiasts. Whether you're a fan of single-origin beans or enjoy exploring bold, unique blends, Aroma Beans Coffee promises to elevate your coffee moments.
 
-Located in the heart of Brew City, California, our café and roastery provide a cozy, welcoming atmosphere for coffee lovers to relax, work, or connect. Visit us at 123 Coffee Lane, Brew City, CA 90210. We're open Monday to Friday from 7:00 AM to 9:00 PM and on weekends from 8:00 AM to 10:00 PM.
+History:
+Indian Institute of Technology Bhilai (IIT Bhilai) is one of the six new IITs established by the Ministry of Human Resource Development in 2016. The institute offers programs such as Bachelor of Technology (BTech), Master of Technology (MTech), Master of Science (MSc), and Doctoral programs (PhD) across various departments.
+IIT Bhilai was established in 2016 as part of the Government of India's initiative to expand the reach of quality technical education in the country. Since its inception, the institute has been committed to delivering high-quality education and fostering research and innovation. citeturn0search1
 
-Stay connected with us through our vibrant social media community. Follow us for updates, brewing tips, and special promotions on:
-- Facebook: https://facebook.com/aromabeanscoffee
-- Instagram: https://instagram.com/aromabeanscoffee
-- Twitter: https://twitter.com/aromabeansco
-- LinkedIn: https://linkedin.com/company/aromabeanscoffee
+Management:
+The management of IIT Bhilai is overseen by a team of distinguished academicians and administrators. The institute is governed by a Board of Governors, with the Director serving as the chief academic and executive officer. Various departments are led by experienced Heads of Departments, ensuring the smooth functioning and development of the institute.
 
-For inquiries, feel free to reach out via email at hello@aromabeanscoffee.com or call us at +1 (555) 123-4567.
+Manas Labs:
+The Multimedia ANAlysis and Security (MANAS) Lab at IIT Bhilai focuses on research areas including signal, image, and video processing, as well as multimedia security. The lab is led by Dr. Nitin Khanna, who has a background in Electrical Engineering from IIT Delhi and a Ph.D. from Purdue University. The lab engages in various projects and offers opportunities for students interested in these research areas.
 
-Our website, https://www.aromabeanscoffee.com, offers a seamless shopping experience for coffee beans, accessories, and subscriptions. Learn about our unique blends, explore brewing guides, and subscribe to receive fresh coffee delivered to your doorstep.
+Placement:
+IIT Bhilai has conducted several successful campus placement sessions. In the 2022–2023 academic year, the institute achieved an 86.23% placement rate, with the highest package offered being 48 LPA and an average package of 14 LPA. Top recruiters included Accenture Japan, Deloitte, HCLTech, Infosys, Larsen & Toubro, Mahindra & Mahindra, Nvidia, Siemens, Tata AutoComp Systems, TCS, and Thoughtworks. citeturn0search0
 
-Menu:
-- Signature Coffee:
-  - Espresso Shot - $3.50
-  - Cappuccino - $4.00
-  - Latte (Classic/Vanilla/Caramel) - $4.50
-  - Mocha - $5.00
-- Specialty Brews:
-  - Cold Brew - $4.50
-  - Nitro Cold Brew - $5.50
-  - Single-Origin Pour Over - $5.00
-- Seasonal Favorites:
-  - Pumpkin Spice Latte - $5.50
-  - Peppermint Mocha - $5.50
-- Tea & Alternatives:
-  - Matcha Latte - $5.00
-  - Chai Latte - $4.50
-  - Hot Chocolate - $4.00
-- Snacks & Pastries:
-  - Croissant (Butter/Almond) - $3.50
-  - Muffins (Blueberry/Chocolate Chip) - $3.00
-  - Avocado Toast - $6.00
-  - Bagel with Cream Cheese - $4.00
+Facilities:
+IIT Bhilai offers state-of-the-art facilities to its students and faculty. The institute has well-equipped laboratories, a resourceful central library, and modern computer labs with high-end configurations to support academic and research activities. citeturn0search1
 
-At Aroma Beans Coffee, we believe in creating moments worth savoring. Whether you're stopping by for your morning pick-me-up or indulging in an afternoon treat, we've got something special for everyone.
+Academic Programs:
+The institute offers a range of academic programs across various disciplines, including Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, Data Science and Artificial Intelligence, Physics, and Chemistry. These programs are designed to provide students with a strong foundation in their respective fields, along with opportunities for research and practical experience. citeturn0search1
+
+Research and Innovation:
+IIT Bhilai emphasizes research and innovation, encouraging students and faculty to engage in cutting-edge projects. The institute has various research labs and centers that focus on different areas of science and technology, fostering a culture of inquiry and discovery.
+
+Student Life:
+The campus life at IIT Bhilai is vibrant, with numerous student clubs and organizations that cater to a wide range of interests, including technical, cultural, and sports activities. These extracurricular activities provide students with opportunities to develop leadership skills, collaborate with peers, and engage in holistic development.
+
+Faculty:
+IIT Bhilai boasts a distinguished faculty across various departments. Here are some key faculty members:
+
+- Director:
+  - Prof. Rajat Moona
+
+- Department of Bioscience and Biomedical Engineering:
+  - Dr. Rukmankesh, Assistant Professor and Head of Department
+
+- Department of Chemistry:
+  - Dr. Sanjib Banerjee, Associate Professor and Head of Department
+
+- Department of Computer Science and Engineering:
+  - Dr. Souradyuti Paul, Associate Professor and Head of Department
+
+- Department of Electrical Engineering:
+  - Dr. Avishek Adhikary, Assistant Professor and Head of Department
+
+- Department of Electronics and Communication Engineering:
+  - Dr. Sreejith T V, Assistant Professor and Head of Department
+
+- Department of Mechanical Engineering:
+  - Dr. Soumya Gangopadhyay, Associate Professor and Head of Department
 `;
